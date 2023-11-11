@@ -43,8 +43,9 @@ python app/my_script.py
 Run the unemploymeny report:
 
 ```sh
-python app/unemployment.py
+#python app/unemployment.py
 
+python -m app.unemployment
 ```
 Send an example email:
 
